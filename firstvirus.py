@@ -1,9 +1,9 @@
 from turtle import * 
 speed(10)
-color('cyan')
-bgcolor('black')
+color('black')
+bgcolor('white')
 b = 200
-while b > 0:
+while b > 7:
     left(b)
-    forward(b*3)
+    forward(b*1)
     b= b - 1

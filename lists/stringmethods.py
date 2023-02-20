@@ -7,3 +7,4 @@ if password.isalpha():
     print ("wrong input")
 else:
     print("password is ok")
+    
